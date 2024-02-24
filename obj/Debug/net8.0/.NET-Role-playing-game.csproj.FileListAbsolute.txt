@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Role-playing-game\bin\Debug\net8.0\.NET-Role-playing-game.exe
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Role-playing-game\bin\Debug\net8.0\.NET-Role-playing-game.deps.json
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Role-playing-game\bin\Debug\net8.0\.NET-Role-playing-game.runtimeconfig.json
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Role-playing-game\bin\Debug\net8.0\.NET-Role-playing-game.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Role-playing-game\bin\Debug\net8.0\.NET-Role-playing-game.pdb
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Role-playing-game\obj\Debug\net8.0\.NET-Role-playing-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Role-playing-game\obj\Debug\net8.0\.NET-Role-playing-game.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Role-playing-game\obj\Debug\net8.0\.NET-Role-playing-game.AssemblyInfo.cs
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Role-playing-game\obj\Debug\net8.0\.NET-Role-playing-game.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Role-playing-game\obj\Debug\net8.0\.NET-Role-playing-game.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Role-playing-game\obj\Debug\net8.0\refint\.NET-Role-playing-game.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Role-playing-game\obj\Debug\net8.0\.NET-Role-playing-game.pdb
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Role-playing-game\obj\Debug\net8.0\.NET-Role-playing-game.genruntimeconfig.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Role-playing-game\obj\Debug\net8.0\ref\.NET-Role-playing-game.dll
